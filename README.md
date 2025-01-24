@@ -4,9 +4,11 @@ You can find the deatil in this paper
  
  Run the "ReadAni_without.py" can obtain the animation for motion planning without the collision avoidance.
  
- ![output_without](https://github.com/user-attachments/assets/2253d446-1755-4a29-87f4-c68099af8335)  ![output_with](https://github.com/user-attachments/assets/b954ad3a-291b-4c16-817e-1f10da2943d9)
+ ![output_without](https://github.com/user-attachments/assets/2253d446-1755-4a29-87f4-c68099af8335) 
  
  Run the "ReadAni_with.py" can obtain the animation for motion planning with the collision avoidance.
+
+  ![output_with](https://github.com/user-attachments/assets/b954ad3a-291b-4c16-817e-1f10da2943d9)
  
 
 
